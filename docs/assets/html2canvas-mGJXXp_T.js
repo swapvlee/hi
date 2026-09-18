@@ -1,1 +1,0 @@
-import{n as e}from"./ModuleDetail-ByawPuR4.js";export default e();

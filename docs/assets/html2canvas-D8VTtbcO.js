@@ -1,0 +1,1 @@
+import{n as e}from"./ModuleDetail-iAMgKWF1.js";export default e();
